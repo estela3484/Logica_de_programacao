@@ -1,0 +1,23 @@
+INICIO
+1 entre com o nome;
+-receba nome
+2 Entre com a idade;
+-receba idade
+3 Entre com o Estado civil;
+-receba estado civil
+4 Entre com a quantidade de filhos;
+-receba a quantidade de filhos
+5 Entre com o tempo de trabalho;
+-receba tempo de trabalho
+6 Entre com o quantia do salario;
+-receba quantia de salario
+7 Processar os resultados;
+8 SE  a idade>=60, tem direito a aposentadoria;
+9 SENAO, o funcionario não possui esse direito;
+10 Se a  quantidade dos filhos>0, o funcionário possui direito ao auxílio família;
+11 SENAO, o funcionario não possui direito ao auxilio familia direito;
+12 Se o tempo de trabalho >5 anos, O funcionario tem direito ao abono salarial;
+13 SENAO- funcionario não possui  direito ao abono salarial;
+14 Se o salario do funcionário >4300, O funcionario possui direito ao Seguro de vida e saúde;
+15 SENAO, O funcionario nao tem direito ao Seguro de vida e Saude.;
+Fim
